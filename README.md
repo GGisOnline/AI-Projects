@@ -1,6 +1,8 @@
 # LINFO1361 : Intelligence Artificielle
 Ce répository contient tous les travaux de l'année académique 2022-2023 dans le cadre du cours d'Intelligence Artificielle (LINFO1361) de BAC 3 (Bachelier 3) à l'Université Catholique de Louvain-La-Neuve (EPL).
 
+Avec l'aide de LAMBY Thomas (@thomaslamby).
+
 ## Avertissement concernant le plagiat de "AI-Projects"
 Je tiens à rappeler à tous les visiteurs de ce repository que "ML-Projects" est une collection de mes travaux personnels dans le domaine du Machine Learning. Ces projets ont été développés avec diligence et engagement, représentant des heures de recherche, de programmation, et d'analyse. Ils sont importants pour ma carrière académique et sont cotés dans le cadre de mon cursus à l'université.
 
@@ -23,6 +25,8 @@ Signé, LECHAT Jérôme
 
 # LINFO1361 : Artificial Intelligence
 This repository contains all the work from the academic year 2022-2023 for the Artificial Intelligence course (LINFO1361) in the 3rd year of the Bachelor's degree at the Université Catholique de Louvain-La-Neuve (EPL).
+
+With the help of LAMBY Thomas (@thomaslamby)
 
 
 ## Plagiarism Warning for "AI-Projects"
